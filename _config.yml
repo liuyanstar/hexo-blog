@@ -1,7 +1,7 @@
-# 侧边栏菜单
+﻿# 侧边栏菜单
 menu:
   主页: /
-  归档: /archives
+  目录修改: /archives
   分类: /categories
   标签: /tags
   旅行: /tags/旅行/
@@ -118,7 +118,8 @@ gitalk:
 # GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
 github: 
   # (关闭请设置为false)
-  url: https://github.com/Shen-Yu/hexo-theme-ayer
+  #url: https://github.com/Shen-Yu/hexo-theme-ayer
+  url:https://liuyanstar.github.io/hexo-blog/
 
 # fancybox(仅用于相册展示，若需要可配置albums)
 fancybox: true
